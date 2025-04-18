@@ -1,7 +1,10 @@
 # **🐝 BeeliaTools — Honeypot & Scam Scanner**
 
 **Theme**: Honeypot detection, AI-powered security analysis, digital bee.
-**Beelia** is an **AI-powered honeypot and scam detection tool** designed to protect DeFi traders on the **Solana/BSC** blockchains. With a simple, minimalist interface and powerful risk analysis, **Beelia** helps users spot and avoid scams before they get stung.
+
+**Beelia** is an **AI-powered honeypot and scam detection tool** designed to protect DeFi traders on the **Solana/BSC** blockchains. 
+
+With a simple, minimalist interface and powerful risk analysis, **Beelia** helps users spot and avoid scams before they get stung.
 
 ---
 
