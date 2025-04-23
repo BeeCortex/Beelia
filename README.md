@@ -8,6 +8,16 @@ With a simple, minimalist interface and powerful risk analysis, **Beelia** helps
 
 ---
 
+### 📎 **Official Links**
+
+- **Website**: [YourWebsiteLink](https://www.example.com)
+- **Gitbook Docs**: [BeeliaTools GitHub Repository](https://beecortex.gitbook.io/beecortex-document/)
+- **Twitter**: [@BeeliaTools](https://twitter.com/BeeliaTools)
+- **GitHub**: [BeeliaTools GitHub Repository](https://github.com/yourusername/BeeliaTools)
+- **Contact email**: beecortex@gmail.com
+
+---
+
 ## **🔑 Features:**
 
 - **🔍 Honeypot Detection**  
@@ -239,12 +249,6 @@ Returns: A score between 0 and 100, representing the overall trustworthiness of 
 2. Once installed, click the extension icon in your browser to access the dashboard.
 3. Set your preferences and start receiving **AI-powered scam alerts** and **risk assessments**.
 ---
-
-### 📎 **Official Links**
-
-- **Website**: [YourWebsiteLink](https://www.example.com)
-- **GitHub**: [BeeliaTools GitHub Repository](https://github.com/yourusername/BeeliaTools)
-- **Twitter**: [@BeeliaTools](https://twitter.com/BeeliaTools)
 
 
 **Stay safe with BeeliaTools** — Your personal crypto security assistant.
